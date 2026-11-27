@@ -1,0 +1,16 @@
+ID,Tâche,Jour,Colonne,Livrable,Points,Échéance,Responsable
+T1.1,Lire la présentation HERMES (phases jalons rôles),Lundi,Terminé,Fiche de lecture,,2026-11-23,Thomas
+T1.2,Lire le dossier de la commune,Lundi,Terminé,Fiche de lecture,,2026-11-23,Thomas
+T1.3,Comparer les scénarios et choisir,Lundi,Terminé,01_Fiche_lecture_et_choix_scenario,5,2026-11-23,Thomas
+T2.1,Rédiger les objectifs mesurables,Mardi,Terminé,02_Mandat_initialisation,5,2026-11-24,Thomas
+T2.2,Délimiter le périmètre,Mardi,Terminé,02_Mandat_initialisation,,2026-11-24,Thomas
+T2.3,Désigner mandant et chef de projet,Mardi,Terminé,02_Mandat_initialisation,,2026-11-24,Thomas
+T3.1,Décrire la situation actuelle,Mercredi,Terminé,03_Etude,5,2026-11-25,Thomas
+T3.2,Décrire les trois variantes,Mercredi,Terminé,03_Etude,,2026-11-25,Thomas
+T3.3,Évaluer les variantes (grille pondérée),Mercredi,Terminé,03_Etude,,2026-11-25,Thomas
+T4.1,Rédiger la proposition de décision,Jeudi,Terminé,04_Proposition_de_decision,5,2026-11-26,Thomas
+T4.2,Lister les risques,Jeudi,Terminé,04_Proposition_de_decision,,2026-11-26,Thomas
+T4.3,Préparer la présentation de 5 minutes,Jeudi,Terminé,04_Proposition_de_decision,,2026-11-26,Thomas
+B1,Relecture croisée avec un binôme,Jeudi,En cours,Retours de relecture,,2026-11-26,Binôme
+S1,Traiter les situations 1 2 et 3,Vendredi,Terminé,05_Reponses_trois_situations,,2026-11-27,Thomas
+S2,Rédiger le compte rendu d'une page (PDF),Vendredi,Terminé,06_Compte_rendu,,2026-11-27,Thomas
